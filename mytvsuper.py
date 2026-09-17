@@ -32,12 +32,12 @@ CHANNEL_LIST = {
     'C3': {
         'name': '互動窗 1',
         'license': 'f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'C2': {
         'name': '互動窗 2',
         'license': '1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'CTVE': {
         'name': '娛樂新聞台',
@@ -47,17 +47,17 @@ CHANNEL_LIST = {
     'TVG': {
         'name': '黃金翡翠台',
         'license': '8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'CWIN': {
         'name': 'myTV SUPER FREE',
         'license': '0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'C28': {
         'name': '28AI智慧賽馬',
         'license': '1b778a3241e5fa3bb97d1cb9b57f9e09:3b1f318259fcf0dccd04742cd679fd25',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # MYTV列表中为MytvSuper，已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # MYTV列表中为MytvSuper，已更新
     },
     'CRE': {
         'name': '創世電視',
@@ -167,57 +167,57 @@ CHANNEL_LIST = {
     'SVAR': {
         'name': 'SUPER獎門人',
         'license': '977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'SEYT': {
         'name': 'SUPER EYT',
         'license': 'c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'SFOO': {
         'name': 'SUPER識食',
         'license': '2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'STRA': {
         'name': 'SUPER識嘆',
         'license': '206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'SMUS': {
         'name': 'SUPER Music',
         'license': '0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'SGOL': {
         'name': 'SUPER金曲',
         'license': 'd841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'SSIT': {
         'name': 'SUPER煲劇',
         'license': '203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'STVM': {
         'name': 'SUPER劇場',
         'license': 'b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'SDOC': {
         'name': 'SUPER話當年',
         'license': '248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'SSPT': {
         'name': 'SUPER Sports',
         'license': '0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'C18': {
         'name': 'myTV SUPER 18台',
         'license': '72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # MYTV列表中为MytvSuper，已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # MYTV列表中为MytvSuper，已更新
     },
     'CTVC': {
         'name': '千禧經典台',
@@ -237,7 +237,7 @@ CHANNEL_LIST = {
     'CTVS': {
         'name': '亞洲劇台',
         'license': 'df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # MYTV列表中为MytvSuper，已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # MYTV列表中为MytvSuper，已更新
     },
     'TVO': {
         'name': '黃金華劇台',
@@ -247,7 +247,7 @@ CHANNEL_LIST = {
     'CCOC': {
         'name': '戲曲台',
         'license': 'c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # MYTV列表中为MytvSuper，已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # MYTV列表中为MytvSuper，已更新
     },
     'KID': {
         'name': 'SUPER Kids Channel',
@@ -397,22 +397,22 @@ CHANNEL_LIST = {
     'EVT3': {
         'name': 'myTV SUPER 直播足球3台',
         'license': '84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'EVT4': {
         'name': 'myTV SUPER 直播足球4台',
         'license': '848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'EVT5': {
         'name': 'myTV SUPER 直播足球5台',
         'license': '54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'EVT6': {
         'name': 'myTV SUPER 直播足球6台',
         'license': 'e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a',
-        'logo': 'https://epg.112114.xyz/logo/MytvSuper.png'  # 已更新
+        'logo': 'https://xiaotan.860775.xyz/logo/MytvSuper.png'  # 已更新
     },
     'RKEX': {
         'name': 'ROCK Extreme',
