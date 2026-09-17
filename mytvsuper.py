@@ -22,7 +22,7 @@ CHANNEL_LIST = {
     'B': {
         'name': 'TVB Plus',
         'license': '56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa',
-        'logo': 'https://xiaotan.860775.xyz/TVB Plus.png'  # 保持不变，因为不在替换范围内
+        'logo': 'https://xiaotan.860775.xyz/logo/TVB Plus.png'  # 保持不变，因为不在替换范围内
     },
     'C': {
         'name': '無線新聞台',
@@ -62,7 +62,7 @@ CHANNEL_LIST = {
     'CRE': {
         'name': '創世電視',
         'license': 'adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60',
-        'logo': 'https://xiaotan.860775.xyz/創世電視.png'  # 保持不变，因为不在替换范围内
+        'logo': 'https://xiaotan.860775.xyz/logo/創世電視.png'  # 保持不变，因为不在替换范围内
     },
     'PCC': {
         'name': '鳳凰衛視中文台',
